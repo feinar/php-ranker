@@ -1,0 +1,11 @@
+{
+    "name": "mcls/php-ranker",
+    "description": "A simple class to assign rankings to objects in an array based on one of their properties.",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Maarten Claes"
+        }
+    ],
+	"minimum-stability": "dev"
+}
